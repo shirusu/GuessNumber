@@ -1,0 +1,56 @@
+body {
+    background: url("../images/pic2.jpg") no-repeat center/cover;
+}
+
+.hero {
+    height: 100%;
+}
+
+h1 {
+    font-family: 'Chango', cursive;
+    font-size: 60px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.content {
+    background: #b5dfe0;
+    margin: 0 auto;
+    width: 500px;
+    height: 600px;
+    padding: 15px 15px;
+    border-radius: 10%;
+}
+
+p {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+span {
+
+    font-size: 20px;
+}
+
+button {
+    cursor: pointer;
+    padding: 10px;
+    border: none;
+    background: deepskyblue;
+}
+
+.guessField {
+    border: none;
+    height: 33px;
+    font-size: 20px;
+}
+.form{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding-left: 70px;
+}
+label{
+    padding-left: 70px;
+}
